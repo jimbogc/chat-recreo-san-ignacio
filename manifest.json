@@ -1,0 +1,15 @@
+{
+  "name": "Chat Recreo San Ignacio",
+  "short_name": "Chat R.S.I.",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "ICONO.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ],
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
